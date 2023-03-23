@@ -204,7 +204,9 @@ Once you've configured your blog as described above, you can add these attribute
 
 ### MultiMarkdown
 
-###Based by
+Pledr supports MultiMarkdown syntax out of the box! Go ahead and put MultiMarkdown tables and stuff into your posts. it'll just work.
+
+### Based by
 
 Plerd is by Jason McIntosh
 
